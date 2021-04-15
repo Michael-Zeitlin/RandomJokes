@@ -1,0 +1,32 @@
+*{
+    padding: 5px;
+    text-align: center;
+    background-color: rgb(245, 245, 245);
+}
+
+p{
+    padding: 34px;
+    font-size: 26px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: rgba(255, 255, 255, 0.548);
+    border-radius: 15px;
+    box-shadow: 10px 10px 7px rgba(128, 128, 128, 0.075);
+}
+
+button {
+    padding: 10px;
+    font-size: 30px;
+    border: 2px solid rgb(255, 157, 0);
+    background-color: white;
+    padding: 17px 34px;
+    font-size: 16px;
+    cursor: pointer;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+    color: rgb(255, 157, 0);
+}
+
+button:hover {
+    background: rgb(255, 157, 0);
+    color: white;
+}
